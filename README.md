@@ -61,7 +61,7 @@ Deployment in PyCharm:\
 The Streamlit app is run in PyCharm for testing and deployment.\
 Streamlit Web App\
 #deploy image
-<img src="https://github.com/rpjinu/IPL_Win_Predictor/blob/main/ipl_logo.png" width="900">
+<img src="https://github.com/rpjinu/SMS_Spam_Detection/blob/main/Deploy_image.png" width="900">
 The web application allows users to input a raw SMS message and predict whether it's spam or ham.\
 The app utilizes the saved vectorizer.pkl to convert text into a matrix form and the best_model.pkl for prediction.
 
