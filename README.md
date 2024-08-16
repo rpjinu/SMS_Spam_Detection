@@ -21,7 +21,7 @@ The dataset used for this project is spam.csv, which contains the following colu
 6.Saving the Best Model and Vectorizer\
 7.Deployment\
 8.Streamlit Web App\
-#Project Structure:-
+#Project Structure:-\
 ├── data\
 │   ├── spam.csv\
 ├── models\
