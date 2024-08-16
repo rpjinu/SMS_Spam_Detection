@@ -8,7 +8,7 @@ whole project analysis ,building model and deployment
 Project Overview\
 This project aims to detect spam messages from SMS data using machine learning. The dataset contains labeled messages as either 'spam' or 'ham' (not spam). The project involves data extraction, preprocessing, model training, and deployment using Streamlit.
 
-#Table of Contents:-
+#Table of Contents:-\
 1.Dataset\
 The dataset used for this project is spam.csv, which contains the following columns:\
 
