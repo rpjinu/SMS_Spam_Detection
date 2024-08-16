@@ -1,7 +1,7 @@
 # SMS_Spam_Detection
 whole project analysis ,building model and deployment
 
-<img src="https://github.com/rpjinu/SMS_Spam_Detection/blob/main/spam_logo.png" width="600">
+<img src="https://github.com/rpjinu/SMS_Spam_Detection/blob/main/spam_logo.png" width="300">
 
 
 #SMS Spam Detection Project
