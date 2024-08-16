@@ -30,7 +30,7 @@ The dataset used for this project is spam.csv, which contains the following colu
 ├── app\
 │   ├── app.py
 
-#Data Extraction and Preprocessing:-
+#Data Extraction and Preprocessing:-\
 Load the Dataset:\
 
 The dataset is loaded from spam.csv.\
