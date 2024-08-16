@@ -1,6 +1,9 @@
 # SMS_Spam_Detection
 whole project analysis ,building model and deployment
+
 <img src="https://github.com/rpjinu/SMS_Spam_Detection/blob/main/spam_logo.png" width="600">
+
+
 #SMS Spam Detection Project
 Project Overview\
 This project aims to detect spam messages from SMS data using machine learning. The dataset contains labeled messages as either 'spam' or 'ham' (not spam). The project involves data extraction, preprocessing, model training, and deployment using Streamlit.
